@@ -1,0 +1,35 @@
+/** ADD YOUR AWESOME CODES HERE **/
+/** ADD YOUR AWESOME CODES HERE **/
+
+#navbars-host {
+    background-color: #ffffff !important;
+}
+
+.map iframe {
+    width: 100vw !important;
+    max-width: 100vw;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    position: relative;
+    display: block;
+}
+
+/* Make admissions form area stretch full viewport width */
+.admissions-form-wrapper {
+    width: 100vw;
+    max-width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    box-sizing: border-box;
+}
+
+.admissions-form-wrapper .admissions-iframe {
+    width: 100%;
+    height: 80vh;
+    border: 0;
+    display: block;
+}
