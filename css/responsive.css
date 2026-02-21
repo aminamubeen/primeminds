@@ -360,5 +360,14 @@
 	}
 	
 }
+@media (max-width: 768px) {
 
+  .carousel-control-prev,
+  .carousel-control-next {
+    width: 35px !important;
+    height: 35px !important;
+    background-color: rgba(244, 163, 0, 0.8) !important;
+    border-radius: 8px !important;
+  }
 
+}
