@@ -3870,7 +3870,14 @@ a.link-style3 {
 	color: #eea412;
 }
 
-
+.donate-btn {
+  background-color: #e6a800; /* your yellow */
+  color: #8b1e3f; /* maroon text */
+  padding: 15px 40px;  /* ↑ increase left & right */
+  display: inline-block;
+  border-radius: 6px;
+  font-weight: 600;
+}
 
 
 
